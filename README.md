@@ -1,2 +1,2 @@
 # python-projects
-Beginner python projects and practice
+Beginner python projects and practice.  
